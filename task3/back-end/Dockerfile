@@ -19,4 +19,3 @@ EXPOSE 5252
 
 # Set the command to run on the Flask Server
 CMD ["python3", "api.py"]
-
